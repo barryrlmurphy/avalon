@@ -1,0 +1,8 @@
+html, body { width: 100%; height: 100%; margin: 0; padding: 0; }
+
+.game-frame { position: relative; width: 3000px; height: 2000px; background: #339933; }
+
+.castle { width: 50px; height: 50px; position: absolute; border: 1px solid black; }
+.castle-1 { background: red; top: 100px; left: 900px; }
+.castle-2 { background: blue; top: 1700px; left: 300px; }
+.castle-3 { background: yellow; top: 800px; right: 300px; }
